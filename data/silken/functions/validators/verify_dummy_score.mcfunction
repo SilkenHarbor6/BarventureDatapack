@@ -1,0 +1,1 @@
+execute if score @p KillDummyBoss matches 0 run function silken:dummy_boss

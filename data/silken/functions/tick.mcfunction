@@ -1,0 +1,1 @@
+execute as @p at @s if block ~ ~-1 ~ minecraft:netherite_block run function silken:validators/verify_dummy_score
