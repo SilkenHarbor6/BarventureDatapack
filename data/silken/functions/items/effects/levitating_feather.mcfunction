@@ -1,0 +1,1 @@
+effect give @a[nbt={SelectedItem: {id: "minecraft:feather", tag: {display: {Name: '{"text":"Pluma de levitacion","color":"white","bold":true}', Lore: ['{"text":"Una pluma que te vuelve muy liviano","color":"blue"}']}}}}] levitation 1 1 true

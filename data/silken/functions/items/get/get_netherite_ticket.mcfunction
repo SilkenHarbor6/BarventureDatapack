@@ -1,0 +1,1 @@
+give @p paper{display: {Name: '{"text":"Netherite Ticket","color":"white","bold":true}', Lore: ['{"text":"Este ticket te permite obtener:"}', '{"text":"Un equipamiento completo de full netherite encantado si pierdes tu inventario"}', '{"text":"esto incluye armadura completa  + elytras, un pico, una espada y un hacha"}']}}

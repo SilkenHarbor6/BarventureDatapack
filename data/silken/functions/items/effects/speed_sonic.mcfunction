@@ -1,0 +1,2 @@
+effect give @e[nbt={Inventory: [{Slot: 100b, id: "minecraft:diamond_boots", tag: {display: {Name: '{"text":"Zapatos de Sonico el erizo","color":"white","bold":true}', Lore: ['{"text":"Calzado que te permite correr a altas velocidades","color":"blue"}']}}}]}] speed 1 2 true
+effect give @e[nbt={Inventory: [{Slot: 100b, id: "minecraft:netherite_boots", tag: {display: {Name: '{"text":"Zapatos de Sonico el erizo","color":"white","bold":true}', Lore: ['{"text":"Calzado que te permite correr a altas velocidades","color":"blue"}']}}}]}] speed 1 2 true

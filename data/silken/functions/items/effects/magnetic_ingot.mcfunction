@@ -1,0 +1,1 @@
+execute as @a at @a run tp @e[type=item,distance=..5] @s

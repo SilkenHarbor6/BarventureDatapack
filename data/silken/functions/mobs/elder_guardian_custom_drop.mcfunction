@@ -1,0 +1,1 @@
+summon minecraft:elder_guardian ~ ~1 ~ {Tags: [Husk], ArmorItems: [{}, {}, {Count: 1, id: "minecraft:chainmail_chestplate", tag: {display: {Name: '{"text":"Chaleco de bombero","color":"white","bold":true}', Lore: ['{"text":"Te permite aguantar altas temperaturas","color":"blue"}']}}}, {}], ArmorDropChances: [0f, 0f, 2f, 0f], DeathLootTable: "minecraft:air"}

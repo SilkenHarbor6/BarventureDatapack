@@ -1,0 +1,1 @@
+effect give @p blindness infinite 1 true

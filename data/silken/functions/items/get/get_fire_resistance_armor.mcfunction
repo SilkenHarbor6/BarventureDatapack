@@ -1,0 +1,1 @@
+give @p chainmail_chestplate{display: {Name: '{"text":"Chaleco de bombero","color":"white","bold":true}', Lore: ['{"text":"Te permite aguantar altas temperaturas","color":"blue"}']}}

@@ -1,0 +1,1 @@
+effect clear @p water_breathing

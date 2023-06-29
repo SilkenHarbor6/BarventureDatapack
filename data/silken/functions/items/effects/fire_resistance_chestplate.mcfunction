@@ -1,0 +1,1 @@
+effect give @a[nbt={Inventory: [{Slot: 102b, id: "minecraft:chainmail_chestplate", tag: {display: {Name: '{"text":"Chaleco de bombero","color":"white","bold":true}', Lore: ['{"text":"Te permite aguantar altas temperaturas","color":"blue"}']}}}]}] fire_resistance 1 1 true
